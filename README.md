@@ -1,2 +1,3 @@
-# pi1-teste
-Meu repositório de testes em PI1.
+# Repositório de Testes de PI1
+
+Meu repositório de testes em Projeto Integrado I.
